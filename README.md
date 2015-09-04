@@ -10,9 +10,9 @@ Was ist Git
 
 ### Git Begriffe
 
-* Repo(sitory)
+* Repo(sitory)  
   Das Zuhause eines Projektes (Github-Server, eigener Gitserver, vielleicht [bitbucket](http://www.bitbucket.com))
-* Master
+* Master  
   Die Hauptentwicklungschine
-* Origin
-  Die/eine Datenquelle 
+* Origin  
+  Die/eine Datenquelle
